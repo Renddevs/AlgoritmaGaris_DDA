@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AlgoritmaGaris_DDA/1.0.0": {
+        "runtime": {
+          "AlgoritmaGaris_DDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoritmaGaris_DDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

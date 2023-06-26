@@ -1,0 +1,15 @@
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\bin\Debug\net7.0\AlgoritmaGaris_DDA.exe
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\bin\Debug\net7.0\AlgoritmaGaris_DDA.deps.json
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\bin\Debug\net7.0\AlgoritmaGaris_DDA.runtimeconfig.json
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\bin\Debug\net7.0\AlgoritmaGaris_DDA.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\bin\Debug\net7.0\AlgoritmaGaris_DDA.pdb
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.csproj.AssemblyReference.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.AssemblyInfoInputs.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.AssemblyInfo.cs
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.csproj.CoreCompileInputs.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\refint\AlgoritmaGaris_DDA.dll
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.pdb
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\AlgoritmaGaris_DDA.genruntimeconfig.cache
+C:\Users\Rendy\Documents\Project\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\AlgoritmaGaris_DDA\obj\Debug\net7.0\ref\AlgoritmaGaris_DDA.dll
